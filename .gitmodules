@@ -1,3 +1,12 @@
 [submodule "angular.js"]
 	path = angular.js
 	url = https://github.com/angular/angular.js.git
+[submodule "GreenSock-JS"]
+	path = GreenSock-JS
+	url = https://github.com/greensock/GreenSock-JS.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
