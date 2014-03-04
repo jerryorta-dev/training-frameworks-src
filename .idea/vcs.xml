@@ -5,6 +5,9 @@
     <mapping directory="$PROJECT_DIR$/GreenSock-JS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/angular.js" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/bootstrap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/d3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jquery" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ui-router" vcs="Git" />
   </component>
 </project>
 
