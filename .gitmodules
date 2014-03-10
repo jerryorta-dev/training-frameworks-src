@@ -16,3 +16,6 @@
 [submodule "ui-router"]
 	path = ui-router
 	url = https://github.com/angular-ui/ui-router.git
+[submodule "restangular"]
+	path = restangular
+	url = https://github.com/mgonto/restangular.git
