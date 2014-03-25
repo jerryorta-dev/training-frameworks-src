@@ -19,3 +19,27 @@
 [submodule "restangular"]
 	path = restangular
 	url = https://github.com/mgonto/restangular.git
+[submodule "underscore"]
+	path = underscore
+	url = https://github.com/jashkenas/underscore.git
+[submodule "angular-timer"]
+	path = angular-timer
+	url = https://github.com/siddii/angular-timer.git
+[submodule "angularjs-nvd3-directives"]
+	path = angularjs-nvd3-directives
+	url = https://github.com/cmaurer/angularjs-nvd3-directives.git
+[submodule "nvd3"]
+	path = nvd3
+	url = https://github.com/novus/nvd3.git
+[submodule "require-css"]
+	path = require-css
+	url = https://github.com/guybedford/require-css.git
+[submodule "d3AngularIntegration"]
+	path = d3AngularIntegration
+	url = https://github.com/EpiphanyMachine/d3AngularIntegration.git
+[submodule "science.js"]
+	path = science.js
+	url = https://github.com/jasondavies/science.js.git
+[submodule "d3-plugins"]
+	path = d3-plugins
+	url = https://github.com/d3/d3-plugins.git
