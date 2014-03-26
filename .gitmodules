@@ -43,3 +43,15 @@
 [submodule "d3-plugins"]
 	path = d3-plugins
 	url = https://github.com/d3/d3-plugins.git
+[submodule "d3-geo-projection"]
+	path = d3-geo-projection
+	url = https://github.com/d3/d3-geo-projection.git
+[submodule "topojson"]
+	path = topojson
+	url = https://github.com/mbostock/topojson.git
+[submodule "angular-google-maps"]
+	path = angular-google-maps
+	url = https://github.com/nlaplante/angular-google-maps.git
+[submodule "requirejs-plugins"]
+	path = requirejs-plugins
+	url = https://github.com/millermedeiros/requirejs-plugins.git
