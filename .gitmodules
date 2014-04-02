@@ -68,3 +68,9 @@
 [submodule "natural-earth-vector"]
 	path = natural-earth-vector
 	url = https://github.com/nvkelso/natural-earth-vector.git
+[submodule "us-atlas"]
+	path = us-atlas
+	url = https://github.com/mbostock/us-atlas.git
+[submodule "world-atlas"]
+	path = world-atlas
+	url = https://github.com/mbostock/world-atlas.git
