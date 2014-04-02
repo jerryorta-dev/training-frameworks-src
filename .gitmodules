@@ -55,3 +55,16 @@
 [submodule "requirejs-plugins"]
 	path = requirejs-plugins
 	url = https://github.com/millermedeiros/requirejs-plugins.git
+[submodule "ua-parser-js"]
+	path = ua-parser-js
+	url = https://github.com/faisalman/ua-parser-js.git
+[submodule "angular-xml"]
+	path = angular-xml
+	url = https://github.com/johngeorgewright/angular-xml.git
+
+[submodule "d3-tip"]
+	path = d3-tip
+	url = https://github.com/Caged/d3-tip.git
+[submodule "natural-earth-vector"]
+	path = natural-earth-vector
+	url = https://github.com/nvkelso/natural-earth-vector.git
