@@ -74,3 +74,9 @@
 [submodule "world-atlas"]
 	path = world-atlas
 	url = https://github.com/mbostock/world-atlas.git
+[submodule "amplify"]
+	path = amplify
+	url = https://github.com/appendto/amplify.git
+[submodule "angularjs-pubsub"]
+	path = angularjs-pubsub
+	url = https://github.com/lavinjj/angularjs-pubsub.git
